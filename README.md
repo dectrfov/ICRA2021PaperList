@@ -1,4 +1,4 @@
-# ICRA2021 Paper List
+# ICRA 2021 Paper List
 
 This repo lists all papers in ICRA 2021. We list all papers according their themes.
 

@@ -1,6 +1,6 @@
 # ICRA 2021 Paper List
 
-This repo lists all papers in ICRA 2021. We list all papers according their themes.
+This repo lists all papers in ICRA 2021. We list all papers according their themes alphabetically.
 
 In ICRA 2021, 4,056 submissions are received from 59 countries/regions. Overall, 4,005 papers were reviewed: 2,766 for ICRA 2021 and 1,239 for the IEEE Robotics and Automation Letters (RA-L). From the very large number of high-quality papers we selected 1,946 for presentation, which represents an acceptance rate of 48.0%.
 

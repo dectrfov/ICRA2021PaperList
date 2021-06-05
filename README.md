@@ -58,7 +58,6 @@ In ICRA 2021, 4,056 submissions are received from 59 countries/regions. Overall,
 - Dynamic Modeling
 - Dynamics and Control
 - Field Robotics
-- Field Robotics VI
 - Field Robotics: Agricultural Applications
 - Field Robotics: Control
 - Field Robotics: Machine Learning
@@ -73,7 +72,6 @@ In ICRA 2021, 4,056 submissions are received from 59 countries/regions. Overall,
 - Human-In-The-Loop Control
 - Human-Robot Interaction
 - Human-Robot Interaction Award Session
-- Human-Robot Interaction VI
 - Human-Robot Interaction in Exoskeletons
 - Human-Robot Interaction:   Learning to Predict
 - Human-Robot Interaction:  Robot Navigation
@@ -94,7 +92,6 @@ In ICRA 2021, 4,056 submissions are received from 59 countries/regions. Overall,
 - Humanoid Robots
 - Humanoid and Bipedal Locomotion
 - Humanoids and Animaloids
-- Humanoids and Animaloids VI
 - IMU-Based Localization
 - Intelligence Design
 - Learning and Control in Robotics and Automation
@@ -108,7 +105,6 @@ In ICRA 2021, 4,056 submissions are received from 59 countries/regions. Overall,
 - Learning-Based Grasping
 - Learning-Based Human-Robot Interaction
 - Learning-Based Manipulation
-- Learning-Based Manipulation VI
 - Learning-Based Motion Planning
 - Legged Robots
 - LiDAR-Based Localization
@@ -116,7 +112,6 @@ In ICRA 2021, 4,056 submissions are received from 59 countries/regions. Overall,
 - Localization and Control
 - Localization and Estimation
 - Localization and Mapping
-- Localization and Mapping VI
 - Localization and Mapping: Dataset
 - Localization and Mapping: Distributed Systems
 - Localization and Mapping: LiDAR
@@ -143,7 +138,6 @@ In ICRA 2021, 4,056 submissions are received from 59 countries/regions. Overall,
 - Mapping
 - Marine Robotics
 - Mechanism Design
-- Mechanism Design VI
 - Mechanism Design and Control
 - Mechanism and Control
 - Mechanism and Verification
@@ -157,7 +151,6 @@ In ICRA 2021, 4,056 submissions are received from 59 countries/regions. Overall,
 - Motion Control for Manipulators
 - Motion Estimation
 - Motion Planning
-- Motion Planning VI
 - Motion Planning and Control
 - Motion Planning for Aerial Robotics
 - Motion Planning for Autonomous Vehicle
@@ -187,7 +180,6 @@ In ICRA 2021, 4,056 submissions are received from 59 countries/regions. Overall,
 - Multi-View Perception
 - Multiple and Distributed Intelligence
 - Multiple and Distributed Systems
-- Multiple and Distributed Systems VI
 - Multiple and Distributed Systems: Control
 - Multiple and Distributed Systems: Monitoring and Planning
 - Multiple and Distributed Systems: Perception
@@ -217,7 +209,6 @@ In ICRA 2021, 4,056 submissions are received from 59 countries/regions. Overall,
 - Probabilistic Method in Motion Planning
 - Reconstruction and Perception
 - Rehabilitation and Assistive Robotics
-- Rehabilitation and Assistive Robotics VI
 - Rehabilitation and Assistive Robotics: Machine Learning
 - Rehabilitation and Assistive Robotics: Prosthetics and Exoskeletons
 - Rehabilitation and Assistive Robotics: Reinforcement Learning
@@ -234,7 +225,6 @@ In ICRA 2021, 4,056 submissions are received from 59 countries/regions. Overall,
 - Robust Control
 - Robust/Optimal Control
 - SLAM
-- SLAM VI
 - SLAM with Monocular Camera
 - Segmentation and Recognition
 - Semantic Planning
@@ -244,7 +234,6 @@ In ICRA 2021, 4,056 submissions are received from 59 countries/regions. Overall,
 - Sensor Fusion
 - Service Robotics
 - Service Robotics Award Session
-- Service Robotics VI
 - Simulation and Control
 - Soft Robotics
 - Soft Robotics: Actuation
@@ -258,7 +247,6 @@ In ICRA 2021, 4,056 submissions are received from 59 countries/regions. Overall,
 - Stereo Vision Applications
 - Surgical Continuum Robots
 - Surgical Robotics
-- Surgical Robotics VI
 - Surgical Robots
 - Tactile Sensing for Manipulation
 - Tactile Sensing in Surgical Appplications
@@ -803,16 +791,15 @@ In ICRA 2021, 4,056 submissions are received from 59 countries/regions. Overall,
 - Limits of Probabilistic Safety Guarantees When Considering Human Uncertainty
 - Probabilistic Human Motion Prediction Via a Bayesian Neural Network
 - Directed Acyclic Graph Neural Network for Human Motion Prediction
+- Composing HARMONI: An Open-Source Tool for Human and Robot Modular OpeN Interaction
+- Robot Interaction Studio: A Platform for Unsupervised HRI
+- MorphFace: A Hybrid Morphable Face for a Robopatient
+- Which Gesture Generator Performs Better?
 ## Human-Robot Interaction Award Session
 - Can I Pour into It? Robot Imagining Open Containability Affordance of Previously Unseen Objects Via Physical Simulations
 - Collision Detection, Identification, and Localization on the DLR SARA Robot with Sensing Redundancy
 - Automated Acquisition of Structured, Semantic Models of Manipulation Activities from Human VR Demonstration
 - Reactive Human-To-Robot Handovers of Arbitrary Objects
-## Human-Robot Interaction VI
-- Composing HARMONI: An Open-Source Tool for Human and Robot Modular OpeN Interaction
-- Robot Interaction Studio: A Platform for Unsupervised HRI
-- MorphFace: A Hybrid Morphable Face for a Robopatient
-- Which Gesture Generator Performs Better?
 ## Human-Robot Interaction in Exoskeletons
 - Crawling Support Using Wearable SuperLimbs: Human-Robot Synchronization and Metabolic Cost Assessment
 - ROIAL: Region of Interest Active Learning for Characterizing Exoskeleton Gait Preference Landscapes
@@ -949,7 +936,6 @@ In ICRA 2021, 4,056 submissions are received from 59 countries/regions. Overall,
 - Configuration Transformation of the Wheel-Legged Robot Using Inverse Dynamics Control
 - A Passive Hydraulic Auxiliary System Designed for Increasing Legged Robot Payload and Efficiency
 - Legged Robot State Estimation in Slippery Environments UsingInvariant Extended Kalman Filter with Velocity Update
-## Humanoids and Animaloids VI
 - Precise Jump Planning Using Centroidal Dynamics Based Bilevel Optimization
 - DeepWalk: Omnidirectional Bipedal Gait by Deep Reinforcement Learning
 - ULT-Model: Towards a One-Legged Unified Locomotion Template Model for Forward Hopping with an Upright Trunk
@@ -1072,7 +1058,6 @@ In ICRA 2021, 4,056 submissions are received from 59 countries/regions. Overall,
 - Learning Multi-Object Dense Descriptor for Autonomous Goal-Conditioned Grasping
 - Hierarchical Learning from Demonstrations for Long-Horizon Tasks
 - How to Select and Use Tools? : Active Perception of Target Objects Using Multimodal Deep Learning
-## Learning-Based Manipulation VI
 - Learning Conditional Postural Synergies for Dexterous Hands: A Generative Approach Based on Variational Auto-Encoders and Conditioned on Object Size and Category
 - ReForm: A Robot Learning Sandbox for Deformable Linear Object Manipulation
 - Adversarial Imitation Learning with Trajectorial Augmentation and Correction
@@ -1197,7 +1182,6 @@ In ICRA 2021, 4,056 submissions are received from 59 countries/regions. Overall,
 - Robust Motion Averaging under Maximum Correntropy Criterion
 - Robust Semantic Map Matching Algorithm Based on Probabilistic Registration Model
 - Accurate and Robust Scale Recovery for Monocular Visual Odometry Based on Plane Geometry
-## Localization and Mapping VI
 - Multi-Parameter Optimization for a Robust RGB-D SLAM System
 - Invariant EKF Based 2D Active SLAM with Exploration Task
 - 2D Laser SLAM with Closed Shape Features: Fourier Series Parameterization and Submap Joining
@@ -1408,7 +1392,6 @@ In ICRA 2021, 4,056 submissions are received from 59 countries/regions. Overall,
 - Design and Testing of a Damped Piezo-Driven Decoupled XYZ Stage
 - Innovative Design and Simulation of a Transformable Robot with Flexibility and Versatility, RHex-T3
 - A Variable Stiffness Actuator Based on Second-Order Lever Mechanism and Its Manipulator Integration
-## Mechanism Design VI
 - Neural Fidelity Warping for Efficient Robot Morphology Design
 - Computational Design and Fabrication of Corrugated Mechanisms from Behavioral Specifications
 - Human Driven Compliant Transmission Mechanism
@@ -1523,7 +1506,6 @@ In ICRA 2021, 4,056 submissions are received from 59 countries/regions. Overall,
 - An Approximation Algorithm for an Assisted Shortest Path Problem
 - TAMPC: A Controller for Escaping Traps in Novel Environments
 - Projector-Guided Non-Holonomic Mobile 3D Printing
-## Motion Planning VI
 - Image Representation of a City and Its Taxi Fleet for End-To-End Learning of Rebalancing Policies
 - COLREGs-Informed RRT* for Collision Avoidance of Marine Crafts
 - Learning to Robustly Negotiate Bi-Directional Lane Usage in High-Conflict Driving Scenarios
@@ -1744,7 +1726,6 @@ In ICRA 2021, 4,056 submissions are received from 59 countries/regions. Overall,
 - Distributed Topology Correction for Flexible Connectivity Maintenance in Multi-Robot Systems
 - Decentralized Nested Gaussian Processes for Multi-Robot Systems
 - Cascaded Filtering Using the Sigma Point Transformation
-## Multiple and Distributed Systems VI
 - Pylot: A Modular Platform for Exploring Latency-Accuracy Tradeoffs in Autonomous Vehicles
 - Decentralized Circle Formation Control for Fish-Like Robots in Real-World Via Reinforcement Learning
 - Graph Connectivity Control of a Mobile Robot Network with Mixed Dynamic Multi-Tasks
@@ -1970,7 +1951,6 @@ In ICRA 2021, 4,056 submissions are received from 59 countries/regions. Overall,
 - Integrated Voluntary-Reactive Control of a Human-SuperLimb Hybrid System for Hemiplegic Patient Support
 - Inverse Optimal Robust Adaptive Controller for Upper Limb Rehabilitation Exoskeletons with Inertia and Load Uncertainties
 - Perceived Usefulness of a Social Robot Augmented Telehealth Platform by Therapists in the United States
-## Rehabilitation and Assistive Robotics VI
 - Nonlinear Disturbance Observer-Based Robust Position Control for Series Elastic Actuator-Driven Robots
 - Composing an Assistive Control Strategy Based on Linear Bellman Combination from Estimated User's Motor Goal
 - Biomimetic Control of Myoelectric Prosthetic Hand Based on a Lambda-Type Muscle Model
@@ -2097,7 +2077,6 @@ In ICRA 2021, 4,056 submissions are received from 59 countries/regions. Overall,
 - Dynamic Object Aware LiDAR SLAM Based on Automatic Generation of Training Data
 - A FastSLAM Approach Integrating Beamforming Maps for Ultrasound-Based Robotic Inspection of Metal Structures
 - Connecting Semantic Building Information Models and Robotics: An Application to 2D LiDAR-Based Localization
-## SLAM VI
 - TT-SLAM: Dense Monocular SLAM for Planar Environments
 - OV2SLAM : A Fully Online and Versatile Visual SLAM for Real-Time Applications
 - DOT: Dynamic Object Tracking for Visual SLAM
@@ -2158,16 +2137,15 @@ In ICRA 2021, 4,056 submissions are received from 59 countries/regions. Overall,
 - HanGrawler: Large-Payload and High-Speed Ceiling Mobile Robot Using Crawler (I)
 - Multimodal Anomaly Detection Based on Deep Auto-Encoder for Object Slip Perception of Mobile Manipulation Robots
 - Route Coverage Testing for Autonomous Vehicles Via Map Modeling
+- A Data-Set and a Method for Pointing Direction Estimation from Depth Images for Human-Robot Interaction and VR Applications
+- Learning-Based Optoelectronically Innervated Tactile Finger for Rigid-Soft Interactive Grasping
+- SeqNet: Learning Descriptors for Sequence-Based Hierarchical Place Recognition
+- Extendable Navigation Network Based Reinforcement Learning for Indoor Robot Exploration
 ## Service Robotics Award Session
 - Tactile SLAM: Real-Time Inference of Shape and Pose from Planar Pushing
 - Robotic Guide Dog: Leading a Human with Leash-Guided Hybrid Physical Interaction
 - Compact Flat Fabric Pneumatic Artificial Muscle (ffPAM) for Soft Wearable Robotic Devices
 - BADGR: An Autonomous Self-Supervised Learning-Based Navigation System
-## Service Robotics VI
-- A Data-Set and a Method for Pointing Direction Estimation from Depth Images for Human-Robot Interaction and VR Applications
-- Learning-Based Optoelectronically Innervated Tactile Finger for Rigid-Soft Interactive Grasping
-- SeqNet: Learning Descriptors for Sequence-Based Hierarchical Place Recognition
-- Extendable Navigation Network Based Reinforcement Learning for Indoor Robot Exploration
 ## Simulation and Control
 - Learning Dense Visual Correspondences in Simulation to Smooth and Fold Real Fabrics
 - Can I Pour into It? Robot Imagining Open Containability Affordance of Previously Unseen Objects Via Physical Simulations
@@ -2273,7 +2251,6 @@ In ICRA 2021, 4,056 submissions are received from 59 countries/regions. Overall,
 - Model-Predictive Control of Blood Suction for Surgical Hemostasis Using Differentiable Fluid Simulations
 - Autonomous Robotic Suction to Clear the Surgical Field for Hemostasis Using Image-Based Blood Flow Detection
 - Learning Invariant Representation of Tasks for Robust Surgical State Estimation
-## Surgical Robotics VI
 - Bayesian Neural Network Modeling and Hierarchical MPC for a Tendon-Driven Surgical Robot with Uncertainty Minimization
 - MAMMOBOT: A Miniature Steerable Soft Growing Robot for Early Breast Cancer Detection
 - Data-Driven Intra-Operative Estimation of Anatomical Attachments for Autonomous Tissue Dissection

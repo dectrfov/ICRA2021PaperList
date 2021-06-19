@@ -1363,8 +1363,8 @@ In ICRA 2021, 4,056 submissions are received from 59 countries/regions. Overall,
 - Lightweight Semantic Mesh Mapping for Autonomous Vehicles
 - LatentSLAM: Unsupervised Multi-Sensor Representation Learning for Localization and Mapping
 ## Marine Robotics
-- Autonomous Data Collection with Timed Communication Constraints for Unmanned Underwater Vehicles
 - Docking and Undocking a Modular Underactuated Oscillating Swimming Robot
+- Autonomous Data Collection with Timed Communication Constraints for Unmanned Underwater Vehicles
 - Predictive 3D Sonar Mapping of Underwater Environments Via Object-Specific Bayesian Inference
 - Self-Organized Evasive Fountain Maneuvers with a Bioinspired Underwater Robot Collective
 ## Mechanism Design
